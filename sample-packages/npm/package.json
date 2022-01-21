@@ -1,3 +1,7 @@
 {
-  "name": "@dedac/package-publish-demo"
+  "name": "@dedac/package-publish-demo",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dedac/package-publish-demo.git"
+  }
 }
